@@ -1,21 +1,24 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Danik%20Mamaiko&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
+<!-- TYPING ANIMATION — demolab.com is whitelisted by GitHub -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=60&lines=Hi+there%2C+I'm+Danik+Mamaiko+%F0%9F%91%8B;AI+%2F+LLM+Engineer+%F0%9F%A4%96;Backend+Developer+(Java+%7C+Python)+%E2%9A%99%EF%B8%8F;Fintech+%26+Banking+Automation+%F0%9F%8F%A6" alt="Typing SVG" />
+</h1>
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/DanikMamaiko">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+LLM+Engineer+%F0%9F%A4%96;Backend+Developer+(Java+%7C+Python)+%E2%9A%99%EF%B8%8F;Fintech+%26+Banking+Automation+%F0%9F%8F%A6;Building+AI+Agents+%26+Microservices+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=94A3B8&center=true&vCenter=true&random=false&width=620&height=30&lines=Software+Developer+%40+Sber+Bank+Belarus+%7C+Minsk%2C+BY+%F0%9F%87%A7%F0%9F%87%BE" alt="subtitle"/>
+</p>
 
-<br/>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
+<!-- komarev & shields.io — always whitelisted -->
 <img src="https://komarev.com/ghpvc/?username=DanikMamaiko&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/DanikMamaiko?tab=followers">
   <img src="https://img.shields.io/github/followers/DanikMamaiko?label=Followers&style=flat-square&color=7c3aed" alt="Followers"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-a78bfa?style=flat-square" alt="Focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Minsk%2C%20Belarus-7c3aed?style=flat-square" alt="Location"/>
 
 </div>
 
@@ -105,6 +108,7 @@ open_to: Challenging AI & Backend engineering projects
 
 <div align="center">
 
+<!-- anuraghazra vercel instance — most stable, widely used -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanikMamaiko&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanikMamaiko&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
@@ -112,7 +116,10 @@ open_to: Challenging AI & Backend engineering projects
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanikMamaiko&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+
+<!-- streak-stats on demolab — whitelisted, replaces heroku -->
+<img src="https://streak-stats.demolab.com/?user=DanikMamaiko&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+
 </div>
 
 ---
@@ -120,7 +127,22 @@ open_to: Challenging AI & Backend engineering projects
 ## 🏆 Достижения
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanikMamaiko&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=6"/>
+
+<!-- shields.io badges — 100% reliable on GitHub, no external rendering -->
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-a78bfa?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Agents-Production%20Ready-f472b6?style=for-the-badge&logo=openai&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Process%20Speed-%2B40%25%20Faster-22c55e?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Test%20Coverage-%3E90%25-22c55e?style=for-the-badge&logo=junit5&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Stack-Java%20%7C%20Python%20%7C%20AI-7c3aed?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PoC%20%E2%86%92%20Production-Every%20Time-f59e0b?style=for-the-badge&logoColor=white"/>
+
 </div>
 
 ---
@@ -128,7 +150,9 @@ open_to: Challenging AI & Backend engineering projects
 ## 📈 График активности
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanikMamaiko&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanikMamaiko&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true" alt="Activity Graph"/>
+
 </div>
 
 ---
@@ -176,9 +200,7 @@ open_to: Challenging AI & Backend engineering projects
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
-
 <sub>✨ <em>"From PoC to Production — every time."</em> ✨</sub>
-
+<br/><br/>
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Code-a78bfa?style=flat-square"/>
 </div>

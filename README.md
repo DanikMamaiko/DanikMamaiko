@@ -101,37 +101,6 @@ open_to: Challenging AI & Backend engineering projects
 
 ---
 
-## 💼 Опыт работы
-
-<table>
-  <tr>
-    <td width="60px" align="center">🏦</td>
-    <td>
-      <strong>Software Developer — Сбер Банк (Беларусь)</strong><br/>
-      <sub>февр. 2026 – настоящее время · Минск</sub><br/>
-      AI-агенты, LLM-автоматизация банковских процессов, FastAPI, LangChain, n8n, Langflow. Сократил время обработки процессов на <strong>~40%</strong> благодаря внедрению AI-агентов в production.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">⚙️</td>
-    <td>
-      <strong>Java Software Engineer — SYSTEM TECHNOLOGIES</strong><br/>
-      <sub>март 2025 – февр. 2026 · 1 год · Минск</sub><br/>
-      Fintech B2B, микросервисы на Java 21 / Spring Boot, Camunda 7, Kubernetes. Разработал AI-агента для автоматизации code review; развернул LLM-модели на корпоративных серверах.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">💳</td>
-    <td>
-      <strong>Software Developer — Innowise Group</strong><br/>
-      <sub>март 2023 – март 2025 · 2 года · Минск</sub><br/>
-      Платформа кредитного скоринга: микросервисы, gRPC, Kafka, Camunda 8, Keycloak. Покрытие тестами <strong>>90%</strong>. Курировал внутреннюю команду от идеи до production.
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Статистика
 
 <div align="center">
@@ -151,7 +120,7 @@ open_to: Challenging AI & Backend engineering projects
 ## 🏆 Достижения
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanikMamaiko&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DanikMamaiko&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=6"/>
 </div>
 
 ---
@@ -167,21 +136,21 @@ open_to: Challenging AI & Backend engineering projects
 ## 🎯 Ключевые проекты & Достижения
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  🤖  AI Agent (Banking)       ██████████████░░  ~40% faster         │
-│      LangChain · LlamaIndex   Production-ready · Accepted by biz   │
-│                                                                     │
-│  🔄  AI Code Review Agent     ██████████████░░  Fewer defects       │
-│      LLM on-premise deploy    Integrated into dev workflow          │
-│                                                                     │
-│  💳  Credit Scoring Platform  ████████████████  >90% test coverage  │
-│      gRPC · Kafka · Camunda   From architecture to production       │
-│                                                                     │
-│  ⚙️  Fintech B2B Payments     ██████████████░░  High-load ready     │
-│      Java 21 · Spring Boot    Deployed to bank environments         │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  🤖  AI Agent (Banking)      ██████████████░░  ~40% faster       │
+│      LangChain · LlamaIndex  Production-ready · Accepted by biz  │
+│                                                                  │
+│  🔄  AI Code Review Agent    ██████████████░░  Fewer defects      │
+│      LLM on-premise deploy   Integrated into dev workflow        │
+│                                                                  │
+│  💳  Credit Scoring Platform ████████████████  >90% test cover.  │
+│      gRPC · Kafka · Camunda  From architecture to production     │
+│                                                                  │
+│  ⚙️  Fintech B2B Payments    ██████████████░░  High-load ready   │
+│      Java 21 · Spring Boot   Deployed to bank environments       │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -192,6 +161,14 @@ open_to: Challenging AI & Backend engineering projects
 
 <a href="https://github.com/DanikMamaiko">
   <img src="https://img.shields.io/badge/GitHub-DanikMamaiko-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://t.me/daniilmamaiko">
+  <img src="https://img.shields.io/badge/Telegram-daniilmamaiko-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/daniil-mamaiko-678016253/">
+  <img src="https://img.shields.io/badge/LinkedIn-Daniil%20Mamaiko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>

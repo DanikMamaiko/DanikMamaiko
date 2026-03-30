@@ -199,8 +199,8 @@ open_to: Challenging AI & Backend engineering projects
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 <sub>✨ <em>"From PoC to Production — every time."</em> ✨</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Code-a78bfa?style=flat-square"/>
-</div>
+</div> -->

@@ -2,7 +2,7 @@
 
 <!-- TYPING ANIMATION — demolab.com is whitelisted by GitHub -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=60&lines=Hi+there%2C+I'm+Danik+Mamaiko+%F0%9F%91%8B;AI+%2F+LLM+Engineer+%F0%9F%A4%96;Backend+Developer+(Java+%7C+Python)+%E2%9A%99%EF%B8%8F;Fintech+%26+Banking+Automation+%F0%9F%8F%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=60&lines=Hi+there%2C+I'm+Daniil+Mamaiko+%F0%9F%91%8B;AI+%2F+LLM+Engineer+%F0%9F%A4%96;Backend+Developer+(Java+%7C+Python)+%E2%9A%99%EF%B8%8F;Fintech+%26+Banking+Automation+%F0%9F%8F%A6" alt="Typing SVG" />
 </h1>
 
 <p>

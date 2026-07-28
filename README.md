@@ -27,7 +27,7 @@
 ## 👾 О себе
 
 ```yaml
-name: Danik Mamaiko
+name: Daniil Mamaiko
 location: Minsk, Belarus 🇧🇾
 role: Software Developer @ Сбер Банк (Беларусь)
 focus:
